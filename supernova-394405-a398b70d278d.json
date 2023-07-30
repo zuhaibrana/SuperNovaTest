@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "supernova-394405",
+  "private_key_id": "a398b70d278df51501bb5ee360afcda6d5700bd2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+Gc3RalDw6Vn0\nZM+vSi4K+X3UCcg5PF9OTddkYSufHZ8cCEi9TtRH427TlDY0JClBWjpkjG+9LjtH\nByRvdYHECyZkJGshIEafxpMtmY0N/eemgl6CRB+Z6c28qOnAjpAFPvrJRKVxC5yJ\nOaxzww0BRIYfYX3kj0YBDnOxsp6eAsc9HTVG/H98X2Mwaw+CdWufR43QNYkXscNL\nMUi4PCCr3LlqBgiHbuxIO9y1u6N63LUVUm5wUKtqbjtiK1jIf4XlR4dMbsWjP5iX\n0I1e5b2EHTAqFO0uV+Z1imPqhxHJKuwWtwlE+HC77ISU+tA7OjFE0v4MCID6ybz1\nwepdWhbrAgMBAAECggEAEqfWnnAIDHRiCw1fokyt0w7j7cyd9Rv7IGScODIfBUjz\nZd1cQhO72mgz5pibbyeDUvIHW/m6N38Teyd0yGloODR96oL2bnRL6f8jT2zLvm1F\n7/3IR5Fm5oRe195dvjNfZ9xj4R+W+s6QaJkb1upz2sV+QhMfty/mR1FDQlOMpGXn\nGiAyvvQzZUMP/viUDADp2Dsl85FK2npe4c7Stknzfl1dig7yBjtpd9X3Ppqs4Cwm\nbZGpAqk0Q7dqtkD4eCxkhUwHQdOM+DtpG2oyNGV4+dz5lHGu15OghBUSesdzTn0n\nV0gnxZqxZdmftbCAyAl5di5EN+IjQlhag4p5F2+KgQKBgQDcwV5M+Fo2tHgM2oZn\nVtRELVa9ls2ZWmXJb249u4kaoKLHxhzkMlW7hDaykonfp1E62+vwdhWRKk9Y1Os1\nw1o166r8ZK8ancnu9ntjctcImJtv6Y57ZfdXqki/D/mzRmPCF4D4p2eJ0EGvyPMX\neI3YxKIATq4tOZ0MppwONIkvgQKBgQDcc4i9O6tdmZLIePAPYRFtdGin/l3otAiN\nrwio02Vk9srk8iBYzppYx2LhUCgDhNnjMuONqtpclk8meHxFmqfIUK5VNyAuYisJ\nTmifihzIVLscZtiWtejImeA9quO9mvDOT45O9VDHDkGWO344Oz/hLotKb6k2lDED\nWD5fwWE8awKBgEwNSiGWRe4myl0TQ86COWqrfACg3YABhqOZAg++dgN4Z9wPQpDT\nTnnlmLp4hYtJp1Bxx5z18YQrYV6nK8k/3epJoISHY1P2HEV5IRUn0TEi8hniCrY0\ncLwA7EL2i/3ZODD7y/DeK2ttFdQrlKP3YlbVl0In2RW3jYV4OLckHkcBAoGANLM9\n5hcEoWycJWab5OFMnEDu3/I0GvQm80/7nvhiTd+do1uqlfBV/5EytzBFUIoK2ICK\n24wThXy9UTIOa0lMgNugwWhbPhtjtGbVJgaLWOzAikqfzm+QRZxbegKHTQVkOb3V\nBFUqyVtEHJj+VIz9eWR6EgJdjlmg2e7XgmalSx8CgYEAl6jwVSrx6ne9TTeT+6Je\nQrTj23bNyzH86QpqZsZgGF2Lh9hOMHTwxYjJmJQM6I/VRnI2DD3MbmULWp8Uj6sB\niYsqCTr9rF/r318CUYvgm5G+2KPRNYZyGB8gy2ecZ7bT32IEv4vJp9Vq08QqfiqQ\nHmza2kLyKSVWc5qrqBxbzEg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "supernova-test-user@supernova-394405.iam.gserviceaccount.com",
+  "client_id": "116198632287862011643",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/supernova-test-user%40supernova-394405.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
